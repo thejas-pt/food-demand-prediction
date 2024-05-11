@@ -1,0 +1,545 @@
+meal-id,name,quantity,cost
+1885,onion,50g,3
+1885,garlic,25g,16
+1885,rice,200 g,15
+1885,vegetable-broth,350 ml,40
+1885,milk,100 ml,10
+1885,zucchini,118 g,30
+1885,cherry-tomatoes,200 g,35
+1885,chives,170 g,20
+1885,almond-slivers,30 g,20
+1885,salt,2 g,2
+1885,pepper,2.84 g,5
+1885,milled-coriander,17.07 g,35
+1993,sugar,180 g,10
+1993,coconut-milk,250 g,40
+1993,eggs,4  eggs,24
+1993,pandan-leaves,20g,30
+2539,tofu,250 g,40
+2539,soy-sauce,119.49g,7
+2539,flat-Asian-style-noodles,150 g,20
+2539,salt,2 g,2
+2539,red-bell-pepper,50g,20
+2539,yellow-bell-pepper,50g,20
+2539,spring-onion,20g,15
+2539,carrots,25g,10
+2539,coriander,10g,5
+2539,cashew-nuts,50 g,50
+2539,sesame-oil,34.14g,4
+2539,sweet-and-sour-sauce,34.14g,2
+1248,waxy-potatoes,750 g,30
+1248,garlic,4g,2
+1248,twigs-rosemary,10g,20
+1248,olive-oil,34014g,2
+1248,paprika-powder,2.84g,3
+1248,salt,2 g,2
+1248,pepper,3g,5
+2631,red-lentils,150 g,20
+2631,vegetable-broth,150 ml,20
+2631,frozen-green-beans,500 g,70
+2631,shallot,15g,6
+2631,garlic,4g,2
+2631,limes,30g,6
+2631,coarse-grained-mustard,17.07 g,5
+2631,olive-oil,68.28g,8
+2631,sugar,34.14g,1
+2631,salt,2 g,2
+2631,pepper,3g,5
+1311,chicken-thighs,45g,100
+1311,salt,4g,1
+1311,mild-ground-paprika,5.69 g,2
+1311,olive-oil,100 ml,5
+1311,dried-flatbread-(mlinci),500 g,200
+1062,dried-chickpeas,300 g,40
+1062,onion,50g,5
+1062,garlic,4g,2
+1062,sieved-tomatoes-(canned),300 g,50
+1062,sweet-paprika-powder,5.69 g,3
+1062,chorizo-(spanish-pepper-salami),200 g,200
+1062,Serrano-ham,100 g,200
+1062,olive-oil,34.14g,2
+1062,salt,2 g,2
+1778,chickpeas-dried,200 g,20
+1778,onions,100g,10
+1778,potatoes,450 g,25
+1778,carrots,350 g,20
+1778,savoy-cabbage,300 g,15
+1778,salt,2g,2
+1778,loins-codfish-soaked,30g,800
+1778,water,100 ml,0
+1778,olive-oil,17.07 g,2
+1778,garlic-cloves,12g,27
+1778,black-pepper,2g,5
+1803,vegetable-broth,300 ml,35
+1803,red-lentils,100 g,10
+1803,couscous,175 g,25
+1803,spring-onions,100 g,15
+1803,yogurt,300 g,27
+1803,white-wine-vinegar,51.21,6
+1803,olive-oil,51.21,3
+1803,salt,2 g,2
+1803,pepper,2g,5
+1803,cumin-powder,2g,4
+1803,organic-lemon,10g,5
+1198,onion,50g,5
+1198,garlic-clove,4g,9
+1198,carrot,10g,5
+1198,stick-stalk-celery,5g,5
+1198,minced-meat,150 g,50
+1198,tomato-puree,51.21,8
+1198,white-wine-dry,150 ml,120
+1198,risotto-rice,250 g,58
+1198,vegetable-broth,500 ml,50
+1198,dried-saffron,0.9g,58
+1198,parmesan-cheese,50 g,134
+1198,rice-flour,100 g,12
+1198,bread-crumbs,100 g,10
+1198,oil,800 ml,200
+1198,leaf-lettuce,5g,16
+2707,white-cabbage,400 g,29
+2707,cooked-ham,200 g,73
+2707,onion,50g,5
+2707,bacon-cubes,75 g,54
+2707,Fleckerl-pasta-(Austrian-pasta),250 g,298
+2707,vegetable-broth,350 ml,40
+2707,stalks-basil,15g,16
+2707,Creme-fraiche,150 g,84
+2707,eggs,2,16
+2707,pepper,2g,5
+2707,nutmeg,15g,10
+2707,breadcrumbs,51.21,2
+2707,butter,25 g,8
+1847,chicken-without-skin,500 g,150
+1847,onions,100g,10
+1847,green-chillies,7g,4
+1847,ginger-paste,2.84 g,2
+1847,garlic-paste,2.84 g,2
+1847,green-cardamon-pods,5g,3
+1847,black-cardamon-pods,6g,3
+1847,cloves,16g,5
+1847,bay-leaves,4g,5
+1847,turmeric-powder,1.42g,1
+1847,red-chili-powder,2.84 g,2
+1847,coriander-powder,2.84 g,2
+1847,garam-masala,2.84 g,1
+1847,tomato,50g,5
+1847,basmati-rice,125g,35
+1847,water,709.5ml,0
+1847,coriander-leaves,30g,10
+1847,mint-leaves,10g,4
+1847,salt,1g,2
+1438,floury-potatoes,750 g,42
+1438,green-beans,500 g,40
+1438,onion,50g,5
+1438,bacon-cubes,150 g,148
+1438,dried-savory,5.69 g,4
+1438,vegetable-broth,500 ml,50
+1438,salt,2 g,2
+1438,pepper,2g,5
+1438,sugar,10g,1
+1438,white-wine-vinegar,51.21,2
+2494,pandan-leaf,3,23
+2494,chicken-legs,300 g,100
+2494,salt,1 g,2
+2494,soy-sauce,5.69,3
+2494,sesame-oil,5.69,6
+2494,dried-ginger,5,9
+2494,cloves-garlic,16g,36
+2494,raw-rice,375g,30
+2494,water,375g,0
+2494,cucumber,5,15
+2494,spring-onions,5g,15
+2494,stalk-cilantro-coriander-leaves,5g,18
+2760,chicken-thighs-(skinless),600 g,200
+2760,pork-meat-(from-the-collar),400 g,500
+2760,mussels,450 g,390
+2760,raw-king-prawns,300 g,467
+2760,onions,100g,10
+2760,cloves-of-garlic,100g,27
+2760,tomatoes,250 g,10
+2760,red-bell-pepper,50g,120
+2760,green-bell-pepper,50g,20
+2760,pepper,2g,5
+2760,frozen-peas,200 g,20
+2760,Paella-rice-(or-round-grain-rice),450 g,139
+2760,water,1 L,0
+2760,packages-saffron-(approx.-0.2-g-each),0.2 g,116
+2760,salt,11.38g,2
+2760,olive-oil-(extra-virgin),51.21g,8
+2490,onion,50g,5
+2490,carrots,25g,10
+2490,sticks-celery-stalk,10g,8
+2490,mince-beef,750 g,500
+2490,tomato-paste,34.14,14
+2490,diced-tomatoes-(canned),400 g,50
+2490,dry-red-wine,100 ml,160
+2490,dried-italian-herbs-or-AMC-Pure,5g,78
+2490,salt,2g,2
+2490,pepper,2g,5
+2490,butter,15 g,5
+2490,flour,15 g,5
+2490,milk,200 ml,10
+2490,nutmeg,10g,10
+2490,salt,2g,2
+2490,pepper,2g,5
+2490,sheets-of-lasagna,12,120
+2490,grated-cheese,150 g,50
+1109,potatoes,400 g,25
+1109,garlic-clove,4g,9
+1109,olive-oil,17.07,1
+1109,spicy-paprika-powder,2.84 g,3
+1109,curry-powder,2.84 g,3
+1109,salt,2g,2
+1109,pepper,2g,5
+1109,stalks-coriander,20g,5
+2290,ghee,5.69 g,17
+2290,onion,50g,5
+2290,cumin-seeds,5.69 g,4
+2290,green-cardamon-pods,6g,4
+2290,cinnamon-sticks,7g,6
+2290,cloves,5g,8
+2290,green-chillies,5g,6
+2290,ginger,2.84 g,5
+2290,cashew-nuts,15g,50
+2290,basmati-rice,500g,40
+2290,water,946ml,0
+2290,salt,2g,2
+2290,coriander-leaves,34.14g,2
+1525,Octopus,400g,1500
+1525,cocktail-tomatoes,300 g,48
+1525,garlic-cloves,24g,54
+1525,pitted-black-olives,100 g,50
+1525,capers,10 g,10
+1525,small-red-chili-pepper,5g,20
+1525,parsley,5g,5
+1525,olive-oil,68.28g,8
+1525,Rigatoni-(large-tube-pasta),400 g,60
+2704,onion,50 g,5
+2704,clove-of-garlic,4g,9
+2704,squid-tubes,500 g,800
+2704,risotto-rice,300 g,69
+2704,white-wine-dry,100 ml,800
+2704,vegetable-broth,600 ml,60
+2704,soy-sauce,34.14g,3
+2704,squid,250g,500
+2704,salt,3g,2
+2704,pepper,3g,5
+1878,round-grain-rice-or-rice-pudding,180 g,20
+1878,hot-water,200 ml,0
+1878,milk,1 L,56
+1878,sugar,150 g,10
+1878,vanilla-sugar,8g,15
+2640,onion,50g,5
+2640,garlic,4g,9
+2640,small-red-chili,4g,3
+2640,green-beans,300 g,30
+2640,red-bell-pepper,50g,20
+2640,yellow-bell-pepper,50g,20
+2640,saffron,0.2 g,59
+2640,paella-or-risotto-rice,200 g,68
+2640,frozen-peas,150 g,28
+2640,vegetable-broth,500 ml,299
+2640,tomatoes,70g,5
+2640,lemon-juice,34.14g,3
+2640,olive-oil,34.14g,10
+2640,salt,2g,2
+2640,pepper,3g,3
+2577,ginger-root,8g,5
+2577,olive-oil,34.14g,10
+2577,chili-flakes,2.84 g,5
+2577,lemon-juice,11.38g,3
+2577,shrimps-peeled-raw,250 g,290
+2577,onion,50g,5
+2577,zucchini,75g,20
+2577,risotto-rice,250 g,45
+2577,vegetable-broth,500 ml,299
+2577,salt,2g,3
+2577,pepper,3g,3
+2577,parmesan-cheese,20g,50
+1754,garlic,8g,5
+1754,Gorgonzola,125 g,150
+1754,strained-tomatoes,500g,470
+1754,cream,200 ml,47
+1754,grated-parmesan-cheese,200 g,295
+1754,tube-noodles-(penne),500 g,75
+1754,vegetable-broth,1 L,900
+1754,small-pork-cutlets,600 g,350
+1754,flat-parsley,10g,5
+1754,salt,2g,3
+1754,pepper,3g,3
+1971,marbled-bacon-(e.g.-pancetta),200 g,360
+1971,cloves-of-garlic,4g,5
+1971,fresh-eggs,4,24
+1971,parmesan-cheese,150 g,177
+1971,salt,2g,3
+1971,pepper,3g,3
+1971,stalks-flat-leaf-parsley,15g,70
+1971,spaghetti,500 g,95
+1971,salt,2g,3
+2306,eggs,4,24
+2306,flour,300 g,15
+2306,salt,2g,3
+2306,water,75 ml,44
+2306,nutmeg,15g,33
+2139,red-gram-dal,250g,50
+2139,water,500g,20
+2139,turmeric-powder,5.69 g,2
+2139,onion,50g,5
+2139,oil,1 ts oil,2
+2139,mustard-seeds,2.84 g,4
+2139,cumin-seeds,2.84 g,3
+2139,garlic,2 ts garlic,5
+2139,stalk-curry-leaves,5g,3
+2139,red-chillies,5g,5
+2139,asafoetida,2g,1
+2139,water,250g,5
+2139,lime-juice,68.28g,5
+2139,salt,2g,2
+2139,coriander-leaves,34.14g,4
+2826,apples,150g,80
+2826,oil,200 ml,30
+2826,eggs-(medium-sized),4,24
+2826,cinnamon,5g,4
+2826,sugar,30g,10
+2664,eggs,2,12
+2664,low-fat-quark,5.69 g,5
+2664,butter,25g,5
+2664,salt,3g,2
+2664,pepper,3g,3
+2569,green-asparagus,500 g,700
+2569,eggs,2,12
+2569,twig-rosemary,5g,13
+2569,breadcrumbs,50 g,29
+2569,chopped-Parmesan-cheese,25 g,5
+2569,ground-almonds,25 g,20
+2569,Basque-chili-pepper,5.69 g,5
+2569,salt,2g,2
+2569,flour,50 g,3
+2569,olive-oil,51.21g,10
+1230,walnuts,50 g,72
+1230,carrots,250 g,11
+1230,apple,150 g,100
+1230,stalk-celery,200 g,30
+1230,lemon-juice,17.07 g,2
+1230,greek-yoghurt,75 g,45
+1230,mustard,5.69 g,3
+1230,honey,5.69 g,5
+1230,salt,2g,2
+1230,pepper,3g,3
+1207,carrot,15g,10
+1207,celeriac,10g,20
+1207,parsley,5g,10
+1207,onion,50g,5
+1207,beef-bones,1 kg,200
+1207,beef,1 kg,150
+1207,water,2L,40
+1207,bay-leaf,4g,3
+1207,clove-of-garlic,4g,3
+1207,peppercorns,5.69 g,10
+2322,milk,250 ml,19
+2322,butter,100 g,60
+2322,salt,3g,2
+2322,flour,125 g,8
+2322,eggs,6,36
+2322,clove-of-garlic,4g,10
+2322,stalks-parsley,20g,30
+2322,cod-fillet,400 g,160
+2322,flour,20g,5
+2322,oil,400 ml,50
+2492,red-gram-dhal,250g,20
+2492,tomatoes,100 g,4
+2492,green-chillies,6g,1
+2492,water,473ml,
+2492,salt-to-taste,2g,1
+2492,split-chickpea-lentils,5.69 g,
+2492,black-gram-dal,5.69 g,4
+2492,coriander-seeds,11.38g,5
+2492,cumin-seeds,2.84 g,3
+2492,fenugreek-seeds,2.84 g,2
+2492,stalk-curry-leaves,5g,1
+2492,dry-red-chillies,10g,2
+2492,oil,1 ts oil,4
+2492,mustard-seeds,5.69 g,2
+2492,cumin-seeds,5.69 g,5
+2492,black-gram,5.69 g,2
+2492,stalk-curry-leaves,5g,1
+2492,onions,100 g,5
+2492,asafoetida,1.42g,1
+2492,carrot,150 g,12
+2492,radish,100 g,5
+2492,turmeric-powder,2.84 g,1
+2492,chilli-powder,2.84 g,2
+2492,thick-tamarind-pulp,30 g,7
+2492,water,709.5ml,4
+2492,salt-to-taste,2g,1
+2492,coriander-leaves,34.14g,2
+1216,cocktail-tomatoes,200 g,270
+1216,mozzarella,200 g,99
+1216,sieved-tomatoes,750 ml,110
+1216,gnocchi,400 g,250
+1216,salt,3g,1
+1216,pepper,3g,10
+1216,grated-Parmesan,75 g,85
+1216,olive-oil,17.07 g,50
+1216,stalks-basil,10g,30
+1727,medium-onion,50g,2
+1727,cinnamon-stick,7g,3
+1727,clove,4g,3
+1727,green-cardamoms,6g,3
+1727,green-chillies,6g,1
+1727,ts-garlic-paste,5.69 g,5
+1727,ginger-paste,2.84 g,6
+1727,medium-potato,40g,6
+1727,french-beans,25g,7
+1727,medium-carrot,30g,7
+1727,small-cauliflower-florets,50g,10
+1727,large-tomato,50g,4
+1727,shelled-peas,150g,10
+1727,basmati-rice,250g,50
+1727,water,500g,5
+1727,salt-to-taste,3g,1
+1727,chilli-powder,2.84 g,2
+1727,turmeric-powder,1.42g,1
+1727,garam-masala-powder,5.69 g,10
+1727,chopped-coriander-leaves,5g,2
+1727,chopped-mint-leaves,34.14g,2
+1727,onion,50g,4
+1727,ghee-oil,5.69 g,12
+1902,onion,50g,4
+1902,clove-of-garlic,4g,10
+1902,rice,200 g,14
+1902,vegetable-broth,350 ml,160
+1902,milk,100 ml,7
+1902,zucchini,150 g,30
+1902,cocktail-tomatoes,200 g,270
+1902,bunch-chives,20g,15
+1902,almond-slivers,30 g,70
+1902,salt,2g,1
+1902,pepper,3g,5
+1902,ground-coriander,10g,5
+1247,minced-meat-(beef),300 g,70
+1247,barbecue-sauce,17.07 g,10
+1247,salt,3g,1
+1247,pepper,3g,5
+1247,boiled-mini-sausages,80g,330
+1247,zucchini,100g,60
+1247,halloumi,100 g,60
+1247,red-bell-pepper,50g,37
+2304,apple,60g,40
+2304,lemon-juice,34.14g,15
+2304,eggs,4,24
+2304,pinch-salt,2g,1
+2304,flour,150 g,18
+2304,baking-powder,2.84 g,1
+2304,milk,250 ml,12
+2304,butter,20 g,6
+2304,sugar,30g,3
+2304,cinnamon,10g,20
+1543,raw-prawns,400 g,90
+1543,tomatoes,70g,8
+1543,big-onion,70g,8
+1543,small-red-chili,5g,3
+1543,assam-fish-paste-(approx.-180-g),180 g,60
+1543,chili-paste,34.14g,7
+1543,tamarind-paste,17.07g,3
+1543,sugar,17.07g,2
+1543,lemongrass,10g,28
+1543,kaffir-lemon-leaves,5g,20
+1770,chilli-powder,3.8g,4
+1770,ginger-paste,2.84 g,4
+1770,garlic-paste,2.84 g,4
+1770,cumin-powder,2.84 g,2
+1770,coriander-powder,2.84 g,1
+1770,garam-masala,2.84 g,2
+1770,lemon-juice,34.14g,2
+1770,sunflower-oil,5.69g,5
+1770,kasoori-Methi,5.69g,5
+1770,curd,34.14g,6
+1770,salt-to-taste,2g,1
+1770,chicken-breast,250 g,135
+1770,capsicum,25g,20
+1770,onions,100g,16
+1770,butter,5.69g,3
+2126,chopped-Parmesan,45.52g,43
+1558,wheat-flour,100 g,10
+1558,pinch-salt,2g,2
+1558,milk,200 ml,12
+1558,eggs,2,12
+2581,spring-onion,5g,12
+2581,cloves-of-garlic,8g,18
+2581,ginger,30 g,5
+2581,minced-meat-(beef-pork),250 g,250
+2581,rice-wine-(or-dry-sherry),17.07 g,5
+2581,sesame-oil,34.14,12
+2581,soy-sauce,102.42g,8
+2581,sugar,11.38g,3
+2581,salt,2.84 g,1
+2581,pepper,3g,3
+2581,olive-oil,51.21g,12
+2581,fresh-wonton-skins,24,220
+2581,flour,3g,40
+1962,toast-bread,25 g,30
+1962,parsley,30 g,20
+1962,chives,10g,9
+1962,sheep's-cheese,100 g,95
+1962,eggs,5,40
+1962,fennel,250 g,70
+1962,orange,25g,30
+1962,olive-oil,34.14,8
+1962,salt,3g,1
+1962,pepper,3g,3
+1571,small-onion,50g,8
+1571,hard-boiled-egg,1,15
+1571,pickles,2,20
+1571,bunch-chives,120,80
+1571,yogurt,150 g,200
+1571,mustard,17.07 g,10
+1571,salt,2g,1
+1571,pepper,3g,3
+1571,mayonnaise,100 g,40
+1571,fillet-of-fish-(e.g.-cod),600 g,780
+1571,salt,2g,1
+1571,pepper,3g,3
+1571,eggs,3,20
+1571,flour,68.28g,10
+1571,breadcrumbs,100 g,40
+1571,oil,800 ml,130
+2956,frozen-fish-sticks,10,230
+2104,sugar,300 g,13
+2104,water,200 ml,5
+2104,stripes-of-untreated-orange-zest,2,30
+2104,stripes-of-untreated-lemon-zest,2,30
+2104,stick-cinnamon,5g,40
+2104,cloves,6g,5
+2104,cardamom-pods,6g,5
+2104,honey,34.14g,8
+2104,rose-water,17.07 g,5
+2104,lemon-juice,17.07 g,3
+2104,mixed-nuts,200 g,450
+2104,pistachios,50 g,80
+2104,egg-whites,2,20
+2104,pinch-salt,2g,1
+2104,sugar,17.07 g,3
+2104,marzipan,75 g,155
+2104,yufka-dough,250 g,150
+2104,butter,80 g,50
+2444,eggs,4,36
+2867,flour,180 g,15
+2867,sugar,51.21g,8
+2867,butter,150 g,90
+2867,low-fat-quark,400 g,280
+2867,vanilla-sugar,8g,48
+2867,flour,34.14g,10
+2867,eggs,3,20
+2867,unwaxed-lemon-zest,5.69 g,5
+2867,mixed-berries,300 g,680
+2867,blackcurrant-or-raspberry-syrup,51.21g,20
+1445,fine-oat-flakes,68.28g,25
+1445,pithy-oat-flakes,68.28g,20
+1445,dried-cranberries,34.14g,18
+1445,milk,150 ml,10
+1445,yoghurt,150 g,40
+1445,cashew-nuts,34.14g,10
+1445,sesame,34.14g,15
+1445,liquid-honey,34.14g,10
+1445,fresh-strawberries,250 g,500
